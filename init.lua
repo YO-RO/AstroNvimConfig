@@ -15,16 +15,16 @@ return {
     },
     config = {
       pyright = {
-        settings={
+        settings = {
           python = {
             venvPath = ".",
             pythonPath = "./.venv/bin/python",
             analysis = {
-              extraPaths = {"."}
-            }
-          }
-       }
-     }
-    }
-  }
+              extraPaths = { "." },
+            },
+          },
+        },
+      },
+    },
+  },
 }
