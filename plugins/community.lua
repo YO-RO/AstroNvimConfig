@@ -6,7 +6,7 @@ return {
 
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.java" },
-  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.lua" },
